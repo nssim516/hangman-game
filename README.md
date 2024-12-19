@@ -1,8 +1,4 @@
 # Hangman
-------------------------------------------------------------------------------------------------------
-This code is a classic hangman game. It first selects a random word from a predefined list. Then, it allows players to guess letters of the word. If a guessed letter is correct, it reveals it in the word; otherwise, it increments a counter for wrong guesses and displays a hangman figure accordingly. The game continues until the player either guesses the word correctly or reaches the maximum number of wrong guesses. If the player fails to guess the word, it reveals the word and displays the complete hangman figure.
-------------------------------------------------------------------------------------------------------
-# TicTacToe
 
 A fun and interactive Hangman game built using Python. Try to guess the word before the stick figure is fully drawn!
 
