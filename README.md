@@ -18,7 +18,9 @@ A fun and interactive Hangman game built using Python. Try to guess the word bef
 `python hangman.py`
 
 3. Guess one letter at a time by typing it in the console.
+
 4. Correct guesses will reveal the letters in the word.
+
 5. Wrong guesses will add parts to the hangman. You lose after 6 incorrect guesses.
    
 ## Example Gameplay
@@ -39,3 +41,6 @@ Wrong!
 Letters used: p
 ```
 
+## Customization
+- You can modify the word list by editing the `words` array in the `hangman.py` file:
+`words = ["laptop", "computer", "coding", "console", "television", "phone"]`
